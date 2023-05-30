@@ -1,0 +1,15 @@
+D:\dotnet\AsyncComposition\bin\Debug\net7.0\AsyncComposition.exe
+D:\dotnet\AsyncComposition\bin\Debug\net7.0\AsyncComposition.deps.json
+D:\dotnet\AsyncComposition\bin\Debug\net7.0\AsyncComposition.runtimeconfig.json
+D:\dotnet\AsyncComposition\bin\Debug\net7.0\AsyncComposition.dll
+D:\dotnet\AsyncComposition\bin\Debug\net7.0\AsyncComposition.pdb
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.csproj.AssemblyReference.cache
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.AssemblyInfoInputs.cache
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.AssemblyInfo.cs
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.csproj.CoreCompileInputs.cache
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.dll
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\refint\AsyncComposition.dll
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.pdb
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\AsyncComposition.genruntimeconfig.cache
+D:\dotnet\AsyncComposition\obj\Debug\net7.0\ref\AsyncComposition.dll
